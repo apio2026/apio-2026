@@ -34,5 +34,5 @@ The [editorial (pdf)](https://drive.google.com/file/d/1N0ebF1oszzkB1aPENo1YffU6b
 ## Ranking
 
 Official ranking (Top 6 from official Asia-Pacific countries):
-* TBA
+* https://www.apio2026.ntnu.tw/scoreboard
 
